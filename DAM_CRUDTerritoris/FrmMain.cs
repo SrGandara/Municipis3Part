@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static DAM_ARTICLES.ClComarca;
 
 namespace DAM_CRUDTerritoris
 {
@@ -22,7 +23,11 @@ namespace DAM_CRUDTerritoris
         // d'aquesta manera només podrem tenir una instància oberta de cada formulari
         FrmConnexioBD fConnexioBD = null;
         FrmTerritoris fTerritoris = null;
-
+        FrmImportar fImportar = null;
+        FrmMunicipis fMunicipis = null;
+        FrmComarca fComarcas = null;
+        FrmComPerHab fComPerHab = null;
+        FrmMunPerCom fMunPerCom = null;
         public FrmMain()
         {
             InitializeComponent();
@@ -151,10 +156,7 @@ namespace DAM_CRUDTerritoris
 
         private void activarMenus(Boolean xactivar)
         {
-            dadesBàsiquesToolStripMenuItem.Enabled = xactivar;
-            comercialToolStripMenuItem.Enabled = xactivar;
-            logísticaToolStripMenuItem.Enabled = xactivar;
-            rRHHToolStripMenuItem.Enabled = xactivar;
+            gestioToolStripMenuItem.Enabled = xactivar;
         }
 
         private Boolean activarConnexio()
@@ -183,9 +185,64 @@ namespace DAM_CRUDTerritoris
 
         #endregion
 
-        private void regionsToolStripMenuItem_Click(object sender, EventArgs e)
-        {
+        private void importarDadesToolStripMenuItem_Click(object sender, EventArgs e) {
+            String xnom = "importar";
 
+            if (!(ja_esta_obert(xnom))) {
+                fImportar = new FrmImportar(bd);
+                fImportar.Name = xnom;
+                fImportar.MdiParent = this;
+                fImportar.Show();
+            }
+            fImportar.Activate();
+        }
+
+        private void municipisToolStripMenuItem_Click(object sender, EventArgs e) {
+            String xnom = "municipis";
+
+            if (!(ja_esta_obert(xnom))) {
+                fMunicipis = new FrmMunicipis(bd);
+                fMunicipis.Name = xnom;
+                fMunicipis.MdiParent = this;
+                fMunicipis.Show();
+            }
+            fMunicipis.Activate();
+        }
+
+        private void comarcasToolStripMenuItem_Click(object sender, EventArgs e) {
+            String xnom = "comarcas";
+
+            if (!(ja_esta_obert(xnom))) {
+                fComarcas = new FrmComarca(bd);
+                fComarcas.Name = xnom;
+                fComarcas.MdiParent = this;
+                fComarcas.Show();
+            }
+            fComarcas.Activate();
+        }
+
+        private void comarquesPerHabitantsToolStripMenuItem_Click(object sender, EventArgs e) {
+            String xnom = "habitants";
+
+            if (!(ja_esta_obert(xnom))) {
+                fComPerHab = new FrmComPerHab(bd);
+                fComPerHab.Name = xnom;
+                fComPerHab.MdiParent = this;
+                fComPerHab.Show();
+            }
+            fComPerHab.Activate();
+        }
+
+        private void municipisPerComarcaToolStripMenuItem_Click(object sender, EventArgs e) {
+            String xnom = "munpercom";
+
+            if (!(ja_esta_obert(xnom))) {
+                fMunPerCom = new FrmMunPerCom(bd);
+                fMunPerCom.Name = xnom;
+                fMunPerCom.MdiParent = this;
+                fMunPerCom.Show();
+            }
+            fMunPerCom.Activate();
         }
     }
 }

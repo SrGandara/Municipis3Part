@@ -197,6 +197,10 @@ namespace DAM_CRUDTerritoris.FORMULARIS
             }
         }
         #endregion
+
+        private void dgDades_CellContentClick(object sender, DataGridViewCellEventArgs e) {
+
+        }
     }
 }
 

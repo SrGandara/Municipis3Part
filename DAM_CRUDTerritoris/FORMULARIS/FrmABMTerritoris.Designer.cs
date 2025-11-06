@@ -108,9 +108,9 @@
             // 
             this.btOK.BackColor = System.Drawing.Color.Green;
             this.btOK.ForeColor = System.Drawing.Color.White;
-            this.btOK.Location = new System.Drawing.Point(179, 116);
+            this.btOK.Location = new System.Drawing.Point(179, 354);
             this.btOK.Name = "btOK";
-            this.btOK.Size = new System.Drawing.Size(114, 42);
+            this.btOK.Size = new System.Drawing.Size(114, 47);
             this.btOK.TabIndex = 6;
             this.btOK.Text = "&Acceptar";
             this.btOK.UseVisualStyleBackColor = false;
@@ -120,9 +120,9 @@
             // 
             this.btNo.BackColor = System.Drawing.Color.Red;
             this.btNo.ForeColor = System.Drawing.Color.White;
-            this.btNo.Location = new System.Drawing.Point(342, 116);
+            this.btNo.Location = new System.Drawing.Point(342, 354);
             this.btNo.Name = "btNo";
-            this.btNo.Size = new System.Drawing.Size(114, 42);
+            this.btNo.Size = new System.Drawing.Size(114, 47);
             this.btNo.TabIndex = 7;
             this.btNo.Text = "&Cancel·lar";
             this.btNo.UseVisualStyleBackColor = false;
@@ -133,7 +133,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Tan;
-            this.ClientSize = new System.Drawing.Size(580, 170);
+            this.ClientSize = new System.Drawing.Size(580, 413);
             this.Controls.Add(this.btNo);
             this.Controls.Add(this.btOK);
             this.Controls.Add(this.cbRegions);

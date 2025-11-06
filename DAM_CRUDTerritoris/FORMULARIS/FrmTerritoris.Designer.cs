@@ -50,7 +50,7 @@
             this.lbRegio.MinimumSize = new System.Drawing.Size(100, 2);
             this.lbRegio.Name = "lbRegio";
             this.lbRegio.Padding = new System.Windows.Forms.Padding(3);
-            this.lbRegio.Size = new System.Drawing.Size(100, 28);
+            this.lbRegio.Size = new System.Drawing.Size(100, 24);
             this.lbRegio.TabIndex = 5;
             this.lbRegio.Text = "Regió";
             // 
@@ -60,7 +60,7 @@
             this.cbRegions.FormattingEnabled = true;
             this.cbRegions.Location = new System.Drawing.Point(120, 16);
             this.cbRegions.Name = "cbRegions";
-            this.cbRegions.Size = new System.Drawing.Size(277, 26);
+            this.cbRegions.Size = new System.Drawing.Size(277, 24);
             this.cbRegions.TabIndex = 4;
             this.cbRegions.SelectedIndexChanged += new System.EventHandler(this.cbRegions_SelectedIndexChanged);
             // 
@@ -81,6 +81,7 @@
             this.dgDades.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgDades.Size = new System.Drawing.Size(584, 447);
             this.dgDades.TabIndex = 3;
+            this.dgDades.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgDades_CellContentClick);
             this.dgDades.DoubleClick += new System.EventHandler(this.dgDades_DoubleClick);
             // 
             // chkTotes
@@ -88,7 +89,7 @@
             this.chkTotes.AutoSize = true;
             this.chkTotes.Location = new System.Drawing.Point(424, 22);
             this.chkTotes.Name = "chkTotes";
-            this.chkTotes.Size = new System.Drawing.Size(174, 24);
+            this.chkTotes.Size = new System.Drawing.Size(138, 20);
             this.chkTotes.TabIndex = 6;
             this.chkTotes.Text = "Totes les regions";
             this.chkTotes.UseVisualStyleBackColor = true;
@@ -118,7 +119,7 @@
             // 
             // FrmTerritoris
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(652, 572);
             this.Controls.Add(this.pbDel);

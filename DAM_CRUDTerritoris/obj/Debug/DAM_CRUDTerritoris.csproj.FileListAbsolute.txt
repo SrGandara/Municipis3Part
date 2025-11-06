@@ -51,3 +51,23 @@ C:\Users\Kike\Documents\DAM2-ACCESS-DADES\TEMA 2\8-DAM_CRUDTerritoris\DAM_CRUDTe
 C:\Users\Kike\Documents\DAM2-ACCESS-DADES\TEMA 2\8-DAM_CRUDTerritoris\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.exe
 C:\Users\Kike\Documents\DAM2-ACCESS-DADES\TEMA 2\8-DAM_CRUDTerritoris\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.pdb
 C:\Users\Kike\Documents\DAM2-ACCESS-DADES\TEMA 2\8-DAM_CRUDTerritoris\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmMunicipis.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.csproj.AssemblyReference.cache
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmABMTerritoris.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmConnexioBD.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmImportar.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmMunicipis.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmTerritoris.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FrmMain.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.Properties.Resources.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.csproj.GenerateResource.cache
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.csproj.CoreCompileInputs.cache
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.exe
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.pdb
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\bin\Debug\DAM_CRUDTerritoris.exe.config
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\bin\Debug\DAM_CRUDTerritoris.exe
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\bin\Debug\DAM_CRUDTerritoris.pdb
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmABMMunicipis.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmABMComarcas.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmComarca.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmComPerHab.resources
+C:\Users\byxtr\Documents\!!!CLASE DAM 2\SERVEIS I PROCESSOS\Municipis3Part\DAM_CRUDTerritoris\obj\Debug\DAM_CRUDTerritoris.FORMULARIS.FrmMunPerCom.resources

@@ -48,19 +48,57 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CLASSES\ClBd.cs" />
+    <Compile Include="CLASSES\ClComarca.cs" />
     <Compile Include="CLASSES\ClFitxerConnexioBD.cs" />
     <Compile Include="CLASSES\ClKryptonita486.cs" />
+    <Compile Include="CLASSES\ClMunicipi.cs" />
+    <Compile Include="FORMULARIS\FrmABMComarcas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmABMComarcas.Designer.cs">
+      <DependentUpon>FrmABMComarcas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmABMMunicipis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmABMMunicipis.Designer.cs">
+      <DependentUpon>FrmABMMunicipis.cs</DependentUpon>
+    </Compile>
     <Compile Include="FORMULARIS\FrmABMTerritoris.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FORMULARIS\FrmABMTerritoris.Designer.cs">
       <DependentUpon>FrmABMTerritoris.cs</DependentUpon>
     </Compile>
+    <Compile Include="FORMULARIS\FrmMunPerCom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmMunPerCom.Designer.cs">
+      <DependentUpon>FrmMunPerCom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmComPerHab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmComPerHab.Designer.cs">
+      <DependentUpon>FrmComPerHab.cs</DependentUpon>
+    </Compile>
     <Compile Include="FORMULARIS\FrmConnexioBD.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FORMULARIS\FrmConnexioBD.Designer.cs">
       <DependentUpon>FrmConnexioBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmImportar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmImportar.Designer.cs">
+      <DependentUpon>FrmImportar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmComarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIS\FrmComarca.Designer.cs">
+      <DependentUpon>FrmComarca.cs</DependentUpon>
     </Compile>
     <Compile Include="FORMULARIS\FrmMunicipis.cs">
       <SubType>Form</SubType>
@@ -82,14 +120,32 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FORMULARIS\FrmABMComarcas.resx">
+      <DependentUpon>FrmABMComarcas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIS\FrmABMMunicipis.resx">
+      <DependentUpon>FrmABMMunicipis.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FORMULARIS\FrmABMTerritoris.resx">
       <DependentUpon>FrmABMTerritoris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIS\FrmComPerHab.resx">
+      <DependentUpon>FrmComPerHab.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FORMULARIS\FrmConnexioBD.resx">
       <DependentUpon>FrmConnexioBD.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIS\FrmImportar.resx">
+      <DependentUpon>FrmImportar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIS\FrmComarca.resx">
+      <DependentUpon>FrmComarca.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FORMULARIS\FrmMunicipis.resx">
       <DependentUpon>FrmMunicipis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIS\FrmMunPerCom.resx">
+      <DependentUpon>FrmMunPerCom.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FORMULARIS\FrmTerritoris.resx">
       <DependentUpon>FrmTerritoris.cs</DependentUpon>
@@ -125,6 +181,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cancel50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1491254065-1document_82926-27842480.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick-icon-sign-symbol-design-free-png-3950690864.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spectrum-20037_128.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

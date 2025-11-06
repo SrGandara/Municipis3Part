@@ -1,7 +1,6 @@
 ﻿namespace DAM_CRUDTerritoris.FORMULARIS
 {
-    partial class FrmMunicipis
-    {
+    partial class FrmComarca {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -28,7 +27,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.pbDel = new System.Windows.Forms.PictureBox();
             this.pbAdd = new System.Windows.Forms.PictureBox();
             this.dgDades = new System.Windows.Forms.DataGridView();
@@ -63,9 +62,9 @@
             // 
             this.dgDades.AllowUserToAddRows = false;
             this.dgDades.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.Black;
-            this.dgDades.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.Black;
+            this.dgDades.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgDades.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
             this.dgDades.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgDades.Location = new System.Drawing.Point(8, 9);
@@ -78,7 +77,7 @@
             this.dgDades.TabIndex = 11;
             this.dgDades.DoubleClick += new System.EventHandler(this.dgDades_DoubleClick);
             // 
-            // FrmMunicipis
+            // FrmComarca
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -87,9 +86,9 @@
             this.Controls.Add(this.pbDel);
             this.Controls.Add(this.pbAdd);
             this.Margin = new System.Windows.Forms.Padding(2);
-            this.Name = "FrmMunicipis";
-            this.Text = "FrmMunicipis";
-            this.Load += new System.EventHandler(this.FrmMunicipis_Load);
+            this.Name = "FrmComarca";
+            this.Text = "FrmComarcas";
+            this.Load += new System.EventHandler(this.FrmComarca_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbDel)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbAdd)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgDades)).EndInit();
