@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\dam_crudterritoris\\formularis\\frmterritoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\formularis\\frmterritoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\dam_crudterritoris\\formularis\\frmmunicipis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\formularis\\frmmunicipis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|c:\\users\\kike\\documents\\dam2-access-dades\\tema 2\\8-dam_crudterritoris\\dam_crudterritoris\\formularis\\frmconnexiobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\formularis\\frmconnexiobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\dam_crudterritoris\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\dam_crudterritoris\\formularis\\frmterritoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\formularis\\frmterritoris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\dam_crudterritoris\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\dam_crudterritoris\\classes\\clbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\classes\\clbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\dam_crudterritoris\\formularis\\frmmunicipis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3499ECA-42E1-42DA-9D13-63051E1E5DA7}|DAM_CRUDTerritoris\\DAM_CRUDTerritoris.csproj|solutionrelative:dam_crudterritoris\\formularis\\frmmunicipis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmConnexioBD.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmConnexioBD.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\FORMULARIS\\FrmConnexioBD.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmConnexioBD.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\FORMULARIS\\FrmConnexioBD.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:10:07.696Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMunicipis.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:12:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTerritoris.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:38:00.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMunicipis.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\FORMULARIS\\FrmMunicipis.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:06:35.468Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FrmMain.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FrmMain.cs",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\FrmMain.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAiwHUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:01:57.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FrmMain.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T16:00:56.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClBd.cs",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\CLASSES\\ClBd.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\CLASSES\\ClBd.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\CLASSES\\ClBd.cs",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\CLASSES\\ClBd.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAA2wJUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:25:02.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTerritoris.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs",
+              "RelativeDocumentMoniker": "DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs",
+              "ToolTip": "C:\\Users\\Kike\\Documents\\DAM2-ACCESS-DADES\\TEMA 2\\8-DAM_CRUDTerritoris\\DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DAM_CRUDTerritoris\\FORMULARIS\\FrmTerritoris.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:22:10.148Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
